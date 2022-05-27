@@ -21,9 +21,9 @@
 
 
 ### Tentang  
-Aku bekerja sebagai [FullStackDeveloper](https://tekno.kompas.com/read/2022/03/30/15450037/mengenal-perbedaan-front-end-back-end-dan-full-stack-developer-serta-skill-yang?page=all). Terkadang menjadi freelance di hari libur untuk bisa mendapatkan penghasilan tambahan serta wawasan lebih. 10 tahun lebih bekerja dibanyak perusahaan dengan bidang yang berbeda membuat ku yakin untuk bisa menjadi solusi untuk banyak orang (meski tidak semua).
+Aku bekerja sebagai **[FullStackDeveloper](https://tekno.kompas.com/read/2022/03/30/15450037/mengenal-perbedaan-front-end-back-end-dan-full-stack-developer-serta-skill-yang?page=all)**. Terkadang menjadi freelance di hari libur untuk bisa mendapatkan penghasilan tambahan serta wawasan lebih. 10 tahun lebih bekerja dibanyak perusahaan dengan bidang yang berbeda membuat ku yakin untuk bisa menjadi solusi untuk banyak orang (meski tidak semua).
   
-Aku juga hobi bermain game PC seperti [Dota](https://www.dota2.com/home), [Warframe](https://www.warframe.com/) dan masih banyak yang lainnya. Karena bermain game setidaknya membuat ku berpikir bahwa, untuk bisa menyelesaikan misi, harus menggunakan taktik tersendiri. Hal itu rasanya nggak cukup buruk apabila diterapkan dalam bekerja.
+Aku juga hobi bermain game PC seperti **[Dota](https://www.dota2.com/home)**, **[Warframe](https://www.warframe.com/)** dan masih banyak yang lainnya. Karena bermain game setidaknya membuat ku berpikir bahwa, untuk bisa menyelesaikan misi, harus menggunakan taktik tersendiri. Hal itu rasanya nggak cukup buruk apabila diterapkan dalam bekerja.
 <br/>  
 
 
