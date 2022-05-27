@@ -23,7 +23,7 @@
 ### Glad to see you here!  
 Aku bekerja sebagai Full Stack Developer di salah satu perusahaan alat teknik di Jakarta. Terkadang menjadi freelance di hari libur untuk bisa mendapatkan penghasilan tambahan serta wawasan lebih. 10 tahun lebih bekerja dibanyak perusahaan dengan bidang yang berbeda membuat ku yakin untuk bisa menjadi solusi untuk banyak orang (meski tidak semua).
   
-
+Aku juga hobi bermain game PC seperti Dota, Warframedan masih banyak yang lainnya. Karena bermain game setidaknya membuat ku berpikir bahwa, untuk bisa menyelesaikan misi, harus menggunakan taktik tersendiri. Hal itu rasanya nggak cukup buruk apabila diterapkan dalam bekerja.
 <br/>  
 
 
