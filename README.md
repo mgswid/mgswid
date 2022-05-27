@@ -28,10 +28,10 @@ Aku juga hobi bermain game PC seperti **[Dota](https://www.dota2.com/home)**, **
 
 
 ## Highlight  
-- 💻 Full Stack Developer di [Perusahaan Power Tools](https://mesinhl.com/)  
+- 💻 Full Stack Developer di **[Perusahaan Power Tools](https://mesinhl.com/)** 
   
 
-- 📖 Tertarik dengan mental health dan psikologi.  
+- 📖 Tertarik dengan *mental health* dan psikologi.  
   
 
 - ❓ Jangan tanya tentang jodoh dan asmara. Percaya aja sama JOHAN (JOdoh di tangan tuHAN)
