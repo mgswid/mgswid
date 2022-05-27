@@ -21,9 +21,7 @@
 
 
 ### Glad to see you here!  
-I work as a full stack developer at an engineering equipment company in Jakarta. Sometimes become freelance on holidays to be able to increase income.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+Aku bekerja sebagai Full Stack Developer di salah satu perusahaan alat teknik di Jakarta. Terkadang menjadi freelance di hari libur untuk bisa mendapatkan penghasilan tambahan serta wawasan lebih. 10 tahun lebih bekerja dibanyak perusahaan dengan bidang yang berbeda membuat ku yakin untuk bisa menjadi solusi untuk banyak orang (meski tidak semua).
   
 
 <br/>  
