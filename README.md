@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mogsaw  
+## Hai 👋
   
 
 <a href="https://github.com/mgswid" target="_blank">
@@ -20,30 +20,30 @@
 
 
 
-### Glad to see you here!  
-Aku bekerja sebagai Full Stack Developer di salah satu perusahaan alat teknik di Jakarta. Terkadang menjadi freelance di hari libur untuk bisa mendapatkan penghasilan tambahan serta wawasan lebih. 10 tahun lebih bekerja dibanyak perusahaan dengan bidang yang berbeda membuat ku yakin untuk bisa menjadi solusi untuk banyak orang (meski tidak semua).
+### Tentang  
+Aku bekerja sebagai Full Stack Developer. Terkadang menjadi freelance di hari libur untuk bisa mendapatkan penghasilan tambahan serta wawasan lebih. 10 tahun lebih bekerja dibanyak perusahaan dengan bidang yang berbeda membuat ku yakin untuk bisa menjadi solusi untuk banyak orang (meski tidak semua).
   
 Aku juga hobi bermain game PC seperti Dota, Warframedan masih banyak yang lainnya. Karena bermain game setidaknya membuat ku berpikir bahwa, untuk bisa menyelesaikan misi, harus menggunakan taktik tersendiri. Hal itu rasanya nggak cukup buruk apabila diterapkan dalam bekerja.
 <br/>  
 
 
-## Rapidfire  
-- 💻 I’m currently working at [Powertools Company](https://mesinhl.com/)  
+## Highlight  
+- 💻 Full Stack Developer di [Perusahaan Power Tools](https://mesinhl.com/)  
   
 
-- 📖 I’m currently learning Hyperledger and Kubernetes  
+- 📖 Tertarik dengan mental health dan psikologi.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Jangan tanya tentang jodoh dan asmara. Percaya aja sama JOHAN (JOdoh di tangan tuHAN)
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Hobi juga sama komedi, meme dan hal receh lain.  
   
 
 <br/>  
 
 
-## Languages and Tools  
+## Alat Tempur Yang Biasa digunakan  
 <div align="center">  
 <img style="margin: 10px" src="static/icon/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="static/icon/java-original-wordmark.svg" alt="Java" height="25" />  
