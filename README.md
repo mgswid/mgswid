@@ -31,10 +31,8 @@ Aku juga hobi bermain game PC seperti **[Dota](https://www.dota2.com/home)**, **
 - 💻 Full Stack Developer di sebuah perusahaan swasta. 
   
 - 📖 Tertarik dengan *mental health* dan psikologi.  
-
-- ❓ Jangan tanya tentang jodoh dan asmara. Percaya aja sama JOHAN (JOdoh di tangan tuHAN)
  
-- ⚡ Hobi juga sama komedi, meme dan hal receh lain.  
+- ⚡ Hobi komedi, meme dan hal receh lain.  
   
 
 <br/>  
